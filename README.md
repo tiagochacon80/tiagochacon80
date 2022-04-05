@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on HTML and CSS
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning Python and Java
 
 <div>
   <a href="https://github.com/tiagochacon80">
