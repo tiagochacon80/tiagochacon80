@@ -2,8 +2,8 @@
 <h3>Welcome to my github</h3>
 
 
-- 🔭 I’m currently working on HTML and CSS
-- 🌱 I’m currently learning Java, JavaScript and react
+- 🔭 I’m currently working on HTML, CSS, JavaScript, Java
+- 🌱 I’m currently learning Spring Boot and react
 
 <div>
   <a href="https://github.com/tiagochacon80">
