@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on HTML, CSS, JavaScript, Java
 - 🌱 I’m currently learning Spring Boot and react
 
-#My technologies:  
+<h3>My technologies:</h3>  
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
