@@ -2,8 +2,8 @@
 <h3>Welcome to my github</h3>
 
 
-- 🔭 I’m currently working on HTML, CSS, JavaScript, Java
-- 🌱 I’m currently learning Spring Boot and react
+- 🔭 I’m currently working on .Net, Java
+- 🌱 I’m currently learning Spring Boot and .Net framework
 
 <h3>My technologies:</h3>  
 <div style="display: inline_block"><br>
